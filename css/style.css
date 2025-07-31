@@ -19,7 +19,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #85a69b;
+  --primary: #D19C97;
   --secondary: #EDF1FF;
   --success: #28a745;
   --info: #17a2b8;
@@ -152,7 +152,7 @@ sup {
 }
 
 a {
-  color: #85a69b;
+  color: #D19C97;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2365,8 +2365,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #85a69b;
-  border-color: #85a69b;
+  background-color: #D19C97;
+  border-color: #D19C97;
 }
 
 .btn-primary:hover {
@@ -2384,8 +2384,8 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #212529;
-  background-color: #85a69b;
-  border-color: #85a69b;
+  background-color: #D19C97;
+  border-color: #D19C97;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
@@ -2660,14 +2660,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #85a69b;
-  border-color: #85a69b;
+  color: #D19C97;
+  border-color: #D19C97;
 }
 
 .btn-outline-primary:hover {
   color: #212529;
-  background-color: #85a69b;
-  border-color: #85a69b;
+  background-color: #D19C97;
+  border-color: #D19C97;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -2675,15 +2675,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #85a69b;
+  color: #D19C97;
   background-color: transparent;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #212529;
-  background-color: #85a69b;
-  border-color: #85a69b;
+  background-color: #D19C97;
+  border-color: #D19C97;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
@@ -2917,7 +2917,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #85a69b;
+  color: #D19C97;
   text-decoration: none;
 }
 
@@ -3214,7 +3214,7 @@ input[type="button"].btn-block {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #85a69b;
+  background-color: #D19C97;
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
@@ -3503,8 +3503,8 @@ input[type="button"].btn-block {
 
 .custom-control-input:checked ~ .custom-control-label::before {
   color: #fff;
-  border-color: #85a69b;
-  background-color: #85a69b;
+  border-color: #D19C97;
+  background-color: #D19C97;
 }
 
 .custom-control-input:focus ~ .custom-control-label::before {
@@ -3564,8 +3564,8 @@ input[type="button"].btn-block {
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before {
-  border-color: #85a69b;
-  background-color: #85a69b;
+  border-color: #D19C97;
+  background-color: #D19C97;
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after {
@@ -3789,7 +3789,7 @@ input[type="button"].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #85a69b;
+  background-color: #D19C97;
   border: 0;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   appearance: none;
@@ -3817,7 +3817,7 @@ input[type="button"].btn-block {
 .custom-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #85a69b;
+  background-color: #D19C97;
   border: 0;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   appearance: none;
@@ -3848,7 +3848,7 @@ input[type="button"].btn-block {
   margin-top: 0;
   margin-right: 0.2rem;
   margin-left: 0.2rem;
-  background-color: #85a69b;
+  background-color: #D19C97;
   border: 0;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   appearance: none;
@@ -3976,7 +3976,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #85a69b;
+  background-color: #D19C97;
 }
 
 .nav-fill > .nav-link,
@@ -4582,7 +4582,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #85a69b;
+  color: #D19C97;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -4608,8 +4608,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #85a69b;
-  border-color: #85a69b;
+  background-color: #D19C97;
+  border-color: #D19C97;
 }
 
 .page-item.disabled .page-link {
@@ -4670,7 +4670,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #212529;
-  background-color: #85a69b;
+  background-color: #D19C97;
 }
 
 a.badge-primary:hover, a.badge-primary:focus {
@@ -4971,7 +4971,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #85a69b;
+  background-color: #D19C97;
   transition: width 0.6s ease;
 }
 
@@ -5047,8 +5047,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #85a69b;
-  border-color: #85a69b;
+  background-color: #D19C97;
+  border-color: #D19C97;
 }
 
 .list-group-item + .list-group-item {
@@ -6094,7 +6094,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #85a69b !important;
+  background-color: #D19C97 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6222,7 +6222,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #85a69b !important;
+  border-color: #D19C97 !important;
 }
 
 .border-secondary {
@@ -9264,11 +9264,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #138496 !important;
+  color: #85a69b !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #ba6a62 !important;
+  color: #85a69b !important;
 }
 
 .text-secondary {
@@ -9476,7 +9476,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #85a69b;
+  color: #D19C97;
 }
 
 @media (max-width: 991.98px) {
@@ -9556,7 +9556,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .product-item .btn:hover {
-  color: #85a69b !important;
+  color: #D19C97 !important;
 }
 
 .contact-form .help-block ul {
@@ -9582,3 +9582,233 @@ a.text-dark:hover, a.text-dark:focus {
     transform: translateY(-15px);
   }
 }
+
+/* FAQ 標題 */
+.faq-title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: #333;
+}
+
+/* FAQ 卡片外觀 */
+.faq-card {
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    transition: all 0.3s ease-in-out;
+}
+.faq-card:hover {
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+}
+
+/* FAQ 按鈕 */
+.faq-card .btn-link {
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+    text-decoration: none;
+    padding: 10px 15px;
+    transition: color 0.2s;
+}
+.faq-card .btn-link:hover {
+    color: #85a69b; /* 你的品牌色 */
+}
+
+
+.footer-custom {
+  background-color: #85a69b;  /* 主題色 */
+  color: #fff;
+}
+.footer-custom h4,
+.footer-custom h5 {
+  color: #fff;
+  font-weight: 600;
+}
+.footer-custom p,
+.footer-custom a {
+  color: #f5f5f5;
+  font-size: 15px;
+}
+.footer-custom a:hover {
+  color: #333;
+}
+.btn-square {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease-in-out;
+  border-color: #fff;
+  color: #fff;
+}
+.btn-square:hover {
+  background-color: #333;
+  color: #fff;
+  border-color: #333;
+}
+
+
+/* 金店輪播樣式 */
+#gold-carousel .carousel-item {
+    height: 500px;
+}
+
+#gold-carousel .carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+#gold-carousel .carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#gold-carousel .text-content h2 {
+    color: #85a69b;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+
+#gold-carousel .text-content p {
+    color: white;
+    font-size: 1.2rem;
+    margin-bottom: 25px;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+}
+
+.btn-gold {
+    background-color: #85a69b;
+    color: #000;
+    padding: 12px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.btn-gold:hover {
+    background-color: #85a69b;
+    color: #000;
+    text-decoration: none;
+    transform: translateY(-2px);
+}
+
+#gold-carousel .carousel-control-prev,
+#gold-carousel .carousel-control-next {
+    width: 5%;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+#gold-carousel .carousel-indicators li {
+    background-color: rgba(212, 175, 55, 0.5);
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+#gold-carousel .carousel-indicators .active {
+    background-color: #85a69b;
+}
+
+/* 響應式設計 */
+@media (max-width: 768px) {
+    #gold-carousel .carousel-item {
+        height: 350px;
+    }
+    
+    #gold-carousel .carousel-item img {
+        height: 350px;
+    }
+    
+    #gold-carousel .carousel-caption {
+        padding: 20px;
+    }
+    
+    #gold-carousel .text-content h2 {
+        font-size: 2rem;
+    }
+    
+    #gold-carousel .text-content p {
+        font-size: 1rem;
+    }
+}
+
+
+/*金價*/
+.gold-price-section {
+  background: #fff;
+}
+
+.gold-price-box {
+  position: relative;
+  background: #fff;
+  border: 2px solid #85a69b; /* 主題色邊框 */
+  border-radius: 12px;
+  padding: 35px 30px;
+  max-width: 700px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  overflow: hidden;
+}
+
+
+
+
+
+.gold-price-title {
+  color: #555;
+  position: relative;
+  display: inline-block;
+  padding: 0 30px;
+}
+
+.gold-price-title::before,
+.gold-price-title::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 60px;
+  height: 2px;
+  background-color: #555;
+}
+
+.gold-price-title::before {
+  left: -80px;
+}
+
+.gold-price-title::after {
+  right: -80px;
+}
+
+@media (max-width: 768px) {
+  .gold-price-title::before,
+  .gold-price-title::after {
+    width: 40px;
+  }
+  
+  .gold-price-title::before {
+    left: -60px;
+  }
+  
+  .gold-price-title::after {
+    right: -60px;
+  }
+}
+
+
